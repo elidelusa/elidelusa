@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elidelusa
+- 👋 Hi, I’m @elidev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning more... 
 - 💞️ I’m looking to collaborate on new project
